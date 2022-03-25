@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528576355813",
+    "project_id": "phoneauthakshat",
+    "storage_bucket": "phoneauthakshat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528576355813:android:b3631c3fe29bdb264be30c",
+        "android_client_info": {
+          "package_name": "com.phoneauthakshat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528576355813-mn401j9iatnbphi26tlihhbmdoj37l3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phoneauthakshat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "528576355813-sggddnhs43d2jiats2mvpajbc5vf43er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe64TaV9Nga-JUmk0lAE3hHxh85gmsRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528576355813-sggddnhs43d2jiats2mvpajbc5vf43er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
